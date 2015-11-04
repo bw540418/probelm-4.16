@@ -22,7 +22,7 @@ public class random_letter {
 
 ## Console Output
 ```
-console output
+J
 ```
 
 ## Command Promt Output
@@ -152,4 +152,4 @@ E:\Java\problem 4.16>
 ```
 
 ## Conclusion
-This was an example of Markdown documentation as we have done in the past.
+On this assignment we had to take the math.random() and get a number. we then had to assign a letter to each value which we did with loops. the main goal was to get some practice with markdown to make our reports more professional
