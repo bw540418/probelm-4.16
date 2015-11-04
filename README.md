@@ -1,4 +1,14 @@
-# problem 4.16 
+# Problem 4.16 
+
+## Java Code
+```java
+"insert code"
+```
+
+## Console Output
+```
+console output
+```
 
 ## Command Promt Output
 ```
@@ -125,3 +135,6 @@ To https://github.com/bw540418/probelm-4.16.git
 
 E:\Java\problem 4.16>
 ```
+
+## Conclusion
+This was an example of Markdown documentation as we have done in the past.
